@@ -1,0 +1,26 @@
+File name:           Zeus.pcap
+File type:           Wireshark/tcpdump/... - pcap
+File encapsulation:  Ethernet
+File timestamp precision:  microseconds (6)
+Packet size limit:   file hdr: 65535 bytes
+Number of packets:   93 k
+File size:           14 MB
+Data size:           12 MB
+Capture duration:    32598.350147 seconds
+Earliest packet time: 2012-05-29 14:19:31.909061
+Latest packet time:   2012-05-29 23:22:50.259208
+Data byte rate:      386 bytes/s
+Data bit rate:       3,093 bits/s
+Average packet size: 135.32 bytes
+Average packet rate: 2 packets/s
+SHA256:              d38e6cd7e9e063afe5696fd6a605350b57cc430ac21b32acbec7af70ec45d414
+SHA1:                9c0e30357421c6c34d516ec7905a4df51db3598b
+Strict time order:   False
+Number of interfaces in file: 1
+Interface #0 info:
+                     Encapsulation = Ethernet (1 - ether)
+                     Capture length = 65535
+                     Time precision = microseconds (6)
+                     Time ticks per second = 1000000
+                     Number of stat entries = 0
+                     Number of packets = 93141
